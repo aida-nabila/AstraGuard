@@ -1,0 +1,5 @@
+{
+  "name": "Remix: AstraGuard: AI Orbital Traffic Control",
+  "description": "An AI-powered 3D platform that visualizes orbital traffic around Earth and predicts potential satellite collisions to improve global space situational awareness.",
+  "requestFramePermissions": []
+}
